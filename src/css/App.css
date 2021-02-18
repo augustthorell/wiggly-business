@@ -1,0 +1,38 @@
+.App {
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(0, 0, 0);
+    color: #fff;
+    
+}
+
+.navList {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    
+}
+.navList a {
+    text-decoration: none;
+}
+.navList li {
+    color: #fff;
+    
+}
+
+.logoImage {
+    width: 150px;
+}
+.divMargin {
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
